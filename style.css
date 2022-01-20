@@ -1,0 +1,14 @@
+a.intro{
+    color:slategrey;
+    font-size:2rem;
+    text-decoration: none;
+    border-bottom:1px dotted;
+}
+.attr{
+    font-size:1.5rem;
+}
+@media (max-width:600px) {
+    .attr{
+        font-size:1.2rem;
+    }
+}
